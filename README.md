@@ -14,6 +14,8 @@ The ****Smart Dustbin**** is an innovative project designed to automate the open
 
 ## 🔧 Circuit Diagram
 
+![Circuit Diagram](Circuit-design.png)
+
 
 
 ## 🚀 How It Works
@@ -83,6 +85,11 @@ void closeLid() {
 ```
 
 ## 🔄 Working Demonstration
+
+![Project Image 1](your-project-image-link-1-here)
+![Project Image 2](your-project-image-link-2-here)
+
+🎥 [Watch Project Video](your-video-link-here)
 
 
 
