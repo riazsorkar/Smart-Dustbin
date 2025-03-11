@@ -27,17 +27,17 @@ The ****Smart Dustbin**** is an innovative project designed to automate the open
 ## 💻 Code
 
 ```cpp
-#include <Servo.h> // Includes the Servo library
+#include <Servo.h>
 
-Servo myservo; // Create a servo object
+Servo myservo; 
 
-#define echopin 2  // Echo pin of the ultrasonic sensor
-#define trigpin 3  // Trigger pin of the ultrasonic sensor
+#define echopin 2 
+#define trigpin 3  
 
-int set_cm = 100; // Threshold distance in cm
+int set_cm = 100;
 
-long ultra_time; // Time for ultrasonic pulse
-long dis_cm;     // Calculated distance in cm
+long ultra_time;
+long dis_cm;
 
 void setup() {
   Serial.begin(9600);
@@ -86,10 +86,10 @@ void closeLid() {
 
 ## 🔄 Working Demonstration
 
-![Project Image 1](your-project-image-link-1-here)
-![Project Image 2](your-project-image-link-2-here)
+![Project Image 1](photo-two.jpg)
+![Project Image 2](photo-one.jpg)
 
-🎥 [Watch Project Video](your-video-link-here)
+🎥 [Watch Project Video](Project-video.mp4)
 
 
 
