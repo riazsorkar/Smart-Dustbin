@@ -35,7 +35,7 @@ The **Smart Dustbin** is an innovative project designed to automate the opening 
 ## 💻 Code Implementation
 
 ```cpp
-#include <Servo.h> // Includes the Servo library
+#include <Servo.h> 
 
 Servo myservo; // Create a servo object
 
